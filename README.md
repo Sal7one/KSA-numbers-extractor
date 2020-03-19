@@ -1,5 +1,5 @@
 # KSA-numbers-extractor
-A small python script I extract Saudi phone numbers from the clipboard 
+A small python script to extract Saudi phone numbers from the clipboard 
 
 # How to use
 1 - Copy everything you want 
