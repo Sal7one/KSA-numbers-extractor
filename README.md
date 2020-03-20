@@ -11,6 +11,8 @@ A small python script to extract Saudi phone numbers from the clipboard
 # Side notes
 Every number will be pasted in a new line
 
-You won't see any output or a message just paste your new data 
+You won't see any output or a message just paste your new data.. 
+Why? CMD is scary for some people / to make things faster
 
-   Why? CMD is scary for some people / to make things faster 
+ 
+
