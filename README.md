@@ -2,7 +2,7 @@
 A small python script to extract Saudi phone numbers from the clipboard 
 
 # How to use
-1 - Copy everything you want 
+1 - Copy everything you want to the clipboard 
 
 2 - Run the ksa_numbers.exe (download from release page) or Compile the script yourself
 
