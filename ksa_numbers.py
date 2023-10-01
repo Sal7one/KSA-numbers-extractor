@@ -9,7 +9,9 @@ def Checknumber():
     text = pyperclip.paste()
 
     # Use Regex to filter phone numbers from the text string
-    filteredtext = re.findall("((\+)?(966([_ \-])?|0)(5[0-9]{8}|1([1-9])[0-9]{7}))", text)
+    regex = re.compile(r'(((009665|9665|\+9665|05|5)(5|0|3|6|4|9|1|8|7))|((0096601|96601|\+96601|01)(1|2|3|4|6|7)))([0-9]{7})')
+
+    filteredtext = regex.findall(text)
 
     # Create a new array to save the numbers
     numbers = []
